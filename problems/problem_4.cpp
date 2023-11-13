@@ -11,6 +11,7 @@ std::string problemSolution4(const std::string &macAddress) {
     }else {
         result ="Multicast";
     }
+    return result;
 
     // make use of control flow statements
     // return result;
